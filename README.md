@@ -41,7 +41,7 @@ This app uses the Provider package for state management. Provider is lightweight
 
    * AuthProvider also handles fetching and adding places to Firestore.
 
-   * A StreamBuilder in the HomeScreen listens to real-time updates from Firestore and displays places added by the user.
+   * A StreamBuilder in the HomeScreen listens to real-time updates from Firestore and displays places added by the user. (Display Places Not Implemented)
 
 3. Global State Management:
 
